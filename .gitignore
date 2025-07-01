@@ -1,0 +1,22 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# Environment files
+.Renviron
+
+# Other system files
+.DS_Store
+Thumbs.db
+
+# HTML or output files
+*.html
+*.pdf
+*.docx
